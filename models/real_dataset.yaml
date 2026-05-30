@@ -1,0 +1,10 @@
+names:
+  0: solid
+  1: striped
+  2: white
+  3: black
+nc: 4
+path: C:\Users\Korisnik\Documents\faks\strojno\detekcijabk\real_dataset_split
+test: images/test
+train: images/train
+val: images/val

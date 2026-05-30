@@ -1,0 +1,12 @@
+# Dataset konfiguracija za detekciju biljarskih kugli
+path: C:\Users\Martina\Desktop\detekcijabk\dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names:
+  0: solid
+  1: striped
+  2: white
+  3: black
